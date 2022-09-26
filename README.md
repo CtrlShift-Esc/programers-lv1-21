@@ -1,1 +1,2 @@
-# programers codingtest lv1 °¡¿îµ¥ ±ÛÀÚ °¡Á®¿À±â(c++)
+# programers codingtest lv1 ê°€ìš´ë° ê¸€ì ê°€ì ¸ì˜¤ê¸°(c++)
+https://school.programmers.co.kr/learn/courses/30/lessons/12903
